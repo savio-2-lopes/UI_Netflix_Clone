@@ -3,7 +3,7 @@
 </h3>
 
 
-<p align="center"> 🐾 <strong>UI Clone Netflix</strong> 🚧
+<p align="center"> 📺 <strong>UI Clone Netflix</strong> 🚧
  </p>
  
  <p align="center"> :rocket: <strong>Em Andamento...</strong> 🚧
