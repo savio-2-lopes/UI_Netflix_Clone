@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img alt="UICloneNetflix" title="#UICloneNetflix" src="./assets/prot.gif" width="600px">
+  <img alt="UICloneNetflix" title="#UICloneNetflix" src="./assets/proto.gif" width="600px">
 </h3>
 
 
