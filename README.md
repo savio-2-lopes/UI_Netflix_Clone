@@ -2,7 +2,6 @@
   <img alt="UICloneNetflix" title="#UICloneNetflix" src="./assets/pro.gif" width="600px">
 </h3>
 
-
 <p align="center"> 📺 <strong>UI Clone Netflix</strong> 🚧
  </p>
  
